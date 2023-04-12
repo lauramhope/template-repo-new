@@ -23,6 +23,13 @@ ADD NEW CLONE INSTRUCTIONS
 * _Open “ “ directory_
 * _Open “ “ file in your browser_
 
+************ INSTALL INFO BELOW ***********
+//Installing all packages with $ npm install.
+Building the project using webpack with $ npm run build
+Starting a development server with $ npm run start
+Linting JS files in the src folder with $ npm run lint
+Running tests with Jest using $ npm run test//
+
 _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
 
 ## Known Bugs
